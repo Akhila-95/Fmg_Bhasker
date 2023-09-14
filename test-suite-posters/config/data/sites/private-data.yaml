@@ -1,0 +1,7 @@
+# General information on how to access the site under test
+general:
+    host: utsf.firemountain.org
+    baseUrl: "https://${general.host}"
+    credentials:
+        username: 
+        password:
